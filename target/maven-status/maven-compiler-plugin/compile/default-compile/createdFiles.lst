@@ -1,0 +1,4 @@
+pages\CheckoutProductPage.class
+utils\ConfigReader.class
+utils\WebActions.class
+factory\DriverFactory.class
